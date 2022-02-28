@@ -1,0 +1,236 @@
+@media (max-width:720px) {
+
+#bloc1 header nav ul{
+        display: none;
+       
+    }
+    
+#ho{
+        display: block;
+        padding-left: 40%;
+    }
+
+
+.ordinateur{
+   margin-left: -16px;
+   width:600px ;
+    
+   
+}
+
+.buy{
+    margin-left:  253px; 
+    cursor: pointer;
+}
+
+.social1 img {
+    width: 30px;
+    padding: 15px;
+}
+
+.social1{
+    padding-top: 1px;
+    padding-left: 80px;
+    margin-top: -40px;
+}
+
+.caché{
+    display: none;
+}
+
+.gauche{
+  margin-left: 238px;
+  padding: 0;
+   
+}
+
+.paragraphe5 , .paragraphe7 , .paragraphe9{
+    text-align: center;
+    margin-left: -253px;
+}
+
+.phone{
+ margin-left: 180px;
+ margin-top: 30px;
+ 
+ background-image: url(map_bg.png );
+}
+
+.droite1, .droite2, .droite3{
+    float: none;
+    margin-right: 0;
+    
+}
+
+.droite{
+    
+    text-align: initial;
+    padding-top: 100px;
+    margin-top: -228px;
+    margin-left: 30%; 
+}
+
+.mot2{
+ 
+padding-right: 350px;
+}
+ 
+  #bloc2{
+      background: none;
+    
+  }
+ 
+     
+ .best{
+     margin-left: 185px;
+ }
+
+ #screenshot .image3{
+display: none;
+ }
+ 
+
+.rond{
+     
+ padding: none;
+  padding-right: 500px;
+}
+
+ #screenshot .image{
+display:  inline-block;
+ padding-left: 80px;
+ 
+
+ }
+ 
+ .trois{
+     display: none;
+ }
+
+ .troishita{
+     display: block;
+     padding-left: 203px;
+     padding-top: 30px;
+ }
+
+ #tested{
+ 
+ 
+ margin-top: 30px;
+margin-left: 202px;
+
+ 
+ }
+  
+  
+.reso{
+margin-left: -60px;
+margin-top: 800px;
+ 
+ 
+}
+
+ .lo{
+     margin-left: -520px;
+     margin-top: -900px;
+     padding-top: 20px;
+     padding-bottom: 50px;
+
+ }
+ 
+ .visit{
+     display: none;
+ }
+ 
+
+.seehita{
+margin-left: 300px;
+margin-top: 400px;
+padding-bottom: 200px;
+cursor: pointer;
+
+}
+
+#sa{
+    display: block;
+     margin-left: 300px;
+     padding-top: 10px;
+      
+
+     
+}
+ 
+
+#bloc5{
+
+    padding-top: 100px;
+}
+
+#footer{
+
+padding-top: 400px;
+
+
+}
+
+
+#bloc5 .IN .CO{
+    float: none;
+}
+
+.SA{
+    margin-left: 239px;
+    margin-top: 600px;
+
+}
+
+.SA p{
+    text-align: center;
+    margin-left: -228px;
+}
+
+
+.IN{
+    margin-right: 285px;
+    margin-top: 100px;
+     
+}
+
+.IN p {
+    text-align: center;
+    margin-left: -17px;
+}
+
+.CO{
+ margin-right: -420px;
+  
+    padding-bottom: 10px;
+    padding-top: 200px;
+}  
+
+.CO p{
+    text-align: center;
+    margin-left: -698px;
+}
+
+.copyright{
+    margin-left: 189px;
+    margin-top: 103px;
+  
+}
+  
+.social2{
+float: none;
+padding-bottom: 175px;
+margin-top: 95px;
+margin-right: 240px;
+padding-left: 83px;
+ 
+
+}
+
+.social2 img{
+    padding: 30px;
+}
+
+}
